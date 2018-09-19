@@ -12,7 +12,7 @@
 		639D0C77215223FA0018A838 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 639D0C75215223FA0018A838 /* Main.storyboard */; };
 		639D0C79215224010018A838 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 639D0C78215224010018A838 /* Assets.xcassets */; };
 		639D0C7C215224010018A838 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 639D0C7A215224010018A838 /* LaunchScreen.storyboard */; };
-		639D0C86215250850018A838 /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 639D0C85215250850018A838 /* LICENSE.txt */; };
+		639D0C882152514F0018A838 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 639D0C872152514F0018A838 /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		639D0C78215224010018A838 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		639D0C7B215224010018A838 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		639D0C7D215224010018A838 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		639D0C85215250850018A838 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		639D0C872152514F0018A838 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +56,7 @@
 		639D0C70215223FA0018A838 /* FantasticTutorial */ = {
 			isa = PBXGroup;
 			children = (
-				639D0C85215250850018A838 /* LICENSE.txt */,
+				639D0C872152514F0018A838 /* LICENSE */,
 				639D0C71215223FA0018A838 /* AppDelegate.swift */,
 				639D0C73215223FA0018A838 /* ViewController.swift */,
 				639D0C75215223FA0018A838 /* Main.storyboard */,
@@ -125,9 +125,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				639D0C86215250850018A838 /* LICENSE.txt in Resources */,
 				639D0C7C215224010018A838 /* LaunchScreen.storyboard in Resources */,
 				639D0C79215224010018A838 /* Assets.xcassets in Resources */,
+				639D0C882152514F0018A838 /* LICENSE in Resources */,
 				639D0C77215223FA0018A838 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
